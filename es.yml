@@ -88,7 +88,7 @@ core:
   search_all_discussions: 'Buscar en todas las discusiones por "{query}"'
   search_forum: Buscar en foro
   send_password_reset_email: Enviar restablecimiento de contraseña por correo electrónico
-  settings: Çonfiguraciones
+  settings: Configuraciones
   sign_up: Contratar
   sort_latest: Lo último
   sort_newest: Lo mas nuevo
