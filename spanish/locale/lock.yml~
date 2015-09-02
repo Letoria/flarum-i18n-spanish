@@ -1,8 +1,0 @@
-lock:
-  discussion_locked_notification: "{username} bloqueado"
-  discussion_locked_post: "{username} a bloqueado la discusión."
-  discussion_unlocked_post: "{username} a desbloqueado la discusión."
-  notify_discussion_locked: Cuando alguien bloquea una discusión que empecé
-  locked: Bloqueado
-  lock: Bloquear
-  unlock: Desbloqueado
