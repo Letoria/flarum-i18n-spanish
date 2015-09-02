@@ -1,0 +1,12 @@
+likes:
+  post_liked_notification: "a {username} le gusta tu publicación"
+  post_likes_modal_title: Usuarios que les gusta esto
+  post_liked_by_self: "a {users} le gusta esto."
+  post_liked_by:
+    one: "a {users} le gusta esto."
+    other: " a {users} les gusta esto."
+  unlike_action: No me gusta
+  like_action: Me gusta
+  notify_post_liked: Someone likes my post
+  others: "{count} otros"
+  you: Tú

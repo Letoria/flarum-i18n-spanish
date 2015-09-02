@@ -1,0 +1,4 @@
+pusher:
+  show_updated_discussions:
+    one: "Mostrar {count} discusión actualizada"
+    other: "Mostrar {count} discusiones actualizadas"

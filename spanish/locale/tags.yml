@@ -1,0 +1,18 @@
+tags:
+  discussion_tagged_post:
+    one: "{username} {action} etiqueta."
+    other: "{username} {action} etiquetas."
+  added_tags: "agregó las {tags}"
+  removed_tags: "eliminó las {tags}"
+  tag_new_discussion_title: Elige etiquetas para tu discusión
+  edit_discussion_tags_title: "Edita la etiqueta para {title}"
+  edit_discussion_tags_link: Editar las etiquetas
+  choose_primary_tags:
+    one: Elige una etiqueta primaria
+    other: "Elige {count} etiquetas primarias"
+  choose_secondary_tags:
+    one: Elige una etiqueta más
+    other: "Elige {count} etiquetas más"
+  confirm: Confirmar
+  more: Más...
+  deleted: Eliminado

@@ -1,0 +1,8 @@
+sticky:
+  discussion_stickied_notification: "{username} a destacado"
+  discussion_stickied_post: "{username} destacó la discusión."
+  discussion_unstickied_post: "{username} quitó el destacado a la discusión."
+  notify_discussion_stickied: Cuando alguien destaca una discusión que empecé
+  stickied: Destacado
+  sticky: Destacar
+  unsticky: Quitar destacado

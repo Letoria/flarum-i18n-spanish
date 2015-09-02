@@ -1,0 +1,24 @@
+{
+    "name": "spanish",
+    "title": "Español",
+    "description": "Traduce Flarum y sus extensiones al español.",
+    "keywords": ["español"],
+    "version": "0.1.0",
+    "author": {
+        "name": "Llimer Estrada",
+        "email": "llimer.estrada@gmail.com"
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0",
+        "flarum": ">0.1.0"
+    },
+    "support": {
+        "source": "https://github.com/limonero/flarum-i18n-spanish"
+    },
+    "icon": {
+      "name": "globe",
+      "backgroundColor": "#fabd00",
+      "color": "#ad1519"
+    }
+}

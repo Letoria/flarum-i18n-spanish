@@ -1,0 +1,112 @@
+core:
+  account: Cuenta
+  activity: Actividad
+  administration: Administración
+  alert: Alerta
+  all_discussions: Todo
+  before_log_in_link: ¿Ya tienes una cuenta?
+  before_sign_up_link: ¿No tienes una cuenta?
+  bio_placeholder: Escribe algo acerca de ti...
+  cannot_reply: Desabilitado
+  cannot_reply_help: No tienes permisos para responder en esta discusión.
+  change_email: Cambiar correo electrónico
+  change_password: Cambiar contraseña
+  change_password_help: Haz click en el botón de abajo y te enviaremos un enlace de restablecimiento a tu correo electrónico.
+  close: Cerrar
+  confirm_delete_discussion: ¿Estas seguro de que quieres eliminar esta discusión?
+  confirm_discard_discussion: No haz publicado tu discusión. ¿Deseas descartarlo?
+  confirm_discard_edit: No haz guardado los cambios. ¿Deseas descartarlos?
+  confirm_discard_reply: No haz publicado tu respuesta. ¿Deseas descartarlo?
+  confirmation_email_sent: "Hemos enviado un correo de confirmación a {email}, recomendamos revisar la carpeta de correo no deseado."
+  controls: Controles
+  delete: Eliminar
+  delete_forever: Eliminar rastro
+  deleted: "[eliminado]"
+  disclose_online: Permitir que otros vean cuando estoy conectado.
+  discussion_renamed_post: "{username} cambió el título de {old} a {new}."
+  discussion_renamed_notification: "{username} cambió el título"
+  discussion_replied: "Última respuesta {ago} por {username}"
+  discussion_started: "Iniciado {ago} por {username}"
+  discussion_title: Título de la discusión
+  discussions: Discusiones
+  dismiss: Descartar
+  edit: Editar
+  editing_post: "Publicación #{number} en {discussion}"
+  email: Correo electrónico
+  email_confirmation_required: "Necesitas confirmar tu correo electrónico antes de iniciar sesión. Enviamos un correo de confirmación a {email}, recomendamos revisar la carpeta de correo no deseado."
+  exit_full_screen: Desactivar pantalla completa
+  forgot_password: Olvidé mi contraseña
+  forgot_password_help: Ingresa tu dirección de correo electrónico y te enviaremos un enlace para restablecer tu contraseña.
+  forgot_password_link: ¿Olvidaste tu contraseña?
+  full_screen: Pantalla completa 
+  go_to: "Ir a {location}"
+  group_admin: Administrador
+  group_admins: Administradores
+  group_guest: Invitado
+  group_guests: Invitados
+  group_member: Miembro
+  group_members: Miembros
+  group_mod: Moderador
+  group_mods: Moderadores
+  invalid_login: Datos de acceso incorrectos.
+  joined: "Se unió {ago}"
+  joined_the_forum: Miembro del foro
+  load_more: Cargar más
+  log_in: Iniciar sesión
+  log_in_to_reply: Responder
+  log_out: Cerrar sesión
+  mark_all_as_read: Marcar todo como leído
+  mark_as_read: Marcar como leído
+  minimize: Minimizar
+  no_notifications: Sin notificaciones
+  notifications: Notificaciones
+  notify_discussion_renamed: Cuando alguien renombra una discusión que empecé
+  now: Ahora
+  online: Conectado
+  original_post: Publicación original
+  password: Contraseña
+  password_reset_email_sent: Te enviamos un correo eléctronico con un enlace para restablecer tu contraseña. recomendamos revisar la carpeta de correo no deseado.
+  period_later: "{period} después"
+  post_discussion: Publicar discusión
+  post_edited: "{username} editó {ago}"
+  post_number: "Publicación #{number}"
+  post_reply: Publicar respuesta
+  posted_a_reply: Publicó una respuesta
+  posts: Publicaciones
+  powered_by_flarum: Impulsado por Flarum
+  privacy: Privacidad
+  profile: Perfil
+  prompt_rename_discussion: Ingresa un nuevo título para esta discusión:
+  recover_password: Recuperar contraseña
+  refresh: Actualizar
+  remove: Eliminar
+  rename: Renombrar
+  reply: Responder
+  reply_posted: Tu respuesta fué publicada
+  restore: Restaurar
+  save_changes: Guardar cambios
+  search_all_discussions: 'Buscar "{query}" en todas las discusiones'
+  search_forum: Buscar en el foro
+  send_password_reset_email: Enviar restablecimiento
+  settings: Configuración
+  sign_up: Crear cuenta
+  sort_latest: Lo último
+  sort_newest: Más nuevo
+  sort_oldest: Más antiguo
+  sort_relevance: Relevancia
+  sort_top: Popular
+  start_a_discussion: Iniciar discusión
+  started_a_discussion: Inició una discusión
+  unread_posts: "{count} sin leer"
+  upload: Cargar
+  username: Usuario
+  username_or_email: Usuario ó correo electrónico
+  users: Usuarios
+  view: Vista
+  viewing_posts:
+    one: "{index} de {count} publicación"
+    other: "{index} de {count} publicaciones"
+  welcome_user: "Hola, {username}!"
+  write_a_post: Escribe una publicación...
+  write_a_reply: Escribe una respuesta...
+  

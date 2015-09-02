@@ -1,0 +1,13 @@
+subscriptions:
+  following: Siguiendo
+  ignoring: Ignorando
+  follow: Seguir
+  unfollow: Dejar de seguir
+  ignore: Ignorar
+  notify_new_post: Cuando alguien publica en una discusión que estoy siguiendo
+  new_post_notification: "{username} a publicado"
+  not_following: No seguir
+  not_following_description: Ser notificado cuando me @mencionen.
+  following_description: Ser notificado de todas las respuestas.
+  ignoring_description: Nunca ser notificado. Ocultar de la lista de discusión.
+  unignore: Dejar de ignorar
