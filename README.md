@@ -20,4 +20,4 @@ Extension to localize the Flarum forum software and its official extensions into
 
 ### License
 
-Released under the MIT License. Please see the [LICENSE] (https://github.com/maelsoucaze/flarum/blob/master/LICENSE) file.
+Released under the MIT License. Please see the [LICENSE] (https://github.com/limonero/flarum-i18n-spanish/blob/master/LICENSE) file.
