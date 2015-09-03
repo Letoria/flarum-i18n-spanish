@@ -17,8 +17,8 @@
         "source": "https://github.com/limonero/flarum-i18n-spanish"
     },
     "icon": {
-      "name": "globe",
-      "backgroundColor": "#fabd00",
-      "color": "#ad1519"
+        "name": "globe",
+        "backgroundColor": "#fabd00",
+        "color": "#ad1519"
     }
 }
