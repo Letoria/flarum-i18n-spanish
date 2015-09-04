@@ -68,7 +68,7 @@ core:
   password_reset_email_sent: Te enviamos un correo eléctronico con un enlace para restablecer tu contraseña. recomendamos revisar la carpeta de correo no deseado.
   period_later: "{period} después"
   post_discussion: Publicar discusión
-  post_edited: "{username} editó {ago}"
+  post_edited: "editado por {username} {ago}"
   post_number: "Publicación #{number}"
   post_reply: Publicar respuesta
   posted_a_reply: Publicó una respuesta
